@@ -7,7 +7,7 @@ This project focuses on clean design, responsive layouts, and smooth user experi
 
 ## 🚀 Live Demo
 
-
+https://brainwave-omega-steel.vercel.app/
 
 ---
 
@@ -82,7 +82,7 @@ brainwave/
 
 🎯 Open the live site here:
 
-👉
+👉 https://brainwave-omega-steel.vercel.app/
 
 ---
 
